@@ -9,5 +9,4 @@ def suma():
     else:
         print("El numero ", b, " no es anterior a ",a)
 
-
 print(suma())
